@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Jesús Gay Canelada</h1>
-<h3 align="center">Y estoy estudiando un Grado en Ingeniería Telemática en la Universidad de Alcalá de Henares.</h3>
+<h3 align="center">Estoy estudiando un Grado en Ingeniería Telemática en la Universidad de Alcalá de Henares.</h3>
 
 - 🌱 I’m currently improving and learning / Actualmente mejorando y aprendiendo: **C, HTML**
 
