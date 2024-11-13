@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋,soy Jesús Gay Canelada</h1>
 <h3 align="center">Estoy estudiando un Grado en Ingeniería Telemática en la Universidad de Alcalá de Henares.</h3>
 
-- 🌱 I’m currently improving and learning / Actualmente mejorando y aprendiendo: **C, HTML**
+- 🌱 I’m currently improving and learning / Actualmente mejorando y aprendiendo: **C, HTML, JS, Python**
 
-- 📫 How to reach me / Cómo contactarme: **E-mail: jesusgaycanelada@gmail.com // Discord: @Yisucrist#9390 // Twitter: @notanekkomain**
+- 📫 How to reach me / Cómo contactarme: **E-mail: jesusgaycanelada@gmail.com // Discord: .yisucrist // Twitter: @notanekkomain** // Instagram: @jtk359
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
