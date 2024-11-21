@@ -1,13 +1,18 @@
-<h1 align="center">Hola 👋,soy Jesús Gay Canelada</h1>
+<h1 align="center">Hi , I'm Jesús Gay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+
+<h3 align="center">Currently studying Telematics Engineering Degree at Alcala de Henares University</h3>
 <h3 align="center">Estoy estudiando un Grado en Ingeniería Telemática en la Universidad de Alcalá de Henares.</h3>
 
 - 🌱 I’m currently improving and learning / Actualmente mejorando y aprendiendo: **C, HTML, JS, Python**
 
-- 📫 How to reach me / Cómo contactarme: **E-mail: jesusgaycanelada@gmail.com // Discord: .yisucrist // Twitter: @notanekkomain** // Instagram: @jtk359
+- 📫 How to reach me / Cómo contactarme: **E-mail: jesusgaycanelada@gmail.com // Discord: .yisucrist // Instagram: @jtk359
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yisucrist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yisucrist" height="30" width="40" /></a>
 <a href="https://instagram.com/@jtk359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jtk359" height="30" width="40" /></a>
 </p>
 
