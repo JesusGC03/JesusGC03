@@ -4,7 +4,7 @@
 ### Telematics Engineering Student @ Universidad de Alcalá (UAH)
 **Cloud Infrastructure • Computer Networks • Embedded Systems • Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-gay-canelada)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-gay)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgaycanelada@gmail.com)
 [![Location](https://img.shields.io/badge/Madrid-Spain-1f2937?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
