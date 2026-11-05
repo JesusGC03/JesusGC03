@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently improving and learning / Actualmente mejorando y aprendiendo: **C, HTML, JS, Python**
 
-- 📫 How to reach me / Cómo contactarme: **E-mail: jesusgaycanelada@gmail.com // Discord: .yisucrist // Instagram: @jtk359
+- 📫 How to reach me / Cómo contactarme: **E-mail: jgaycanelada@gmail.com // Discord: .yisucrist // Instagram: @jtk359
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
